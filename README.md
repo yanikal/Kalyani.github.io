@@ -1,7 +1,10 @@
 # Kalyani-Anie-Portfolio
-Welcome to my Data Analyst Portfolio!
 
-I am a data analyst with experience in using various tools and technologies to collect, organize, and analyze data to inform business decisions. I am proficient in Python, SQL, Excel, Power BI, and Tableau, and have a solid understanding of data analytics techniques such as dashboard building, report writing, data mining, data merging, statistics, and critical thinking.
+Hello!
+
+Welcome to my Portfolio. My name is Kalyani and I am excited to have you here!
+
+My skills: Data gathering with APIs, data wrangling, data exploration, statistical analysis, data visualization, presentation skills, etc. A majority of my projects are done using the Python programming language in Jupyter Notebook. Some of the most used packages are Pandas, Numpy, Seaborn and Matplotlib. I am proficient in Python, SQL, Excel and Tableau, and have a solid understanding of data analytics techniques such as dashboard building, report writing, data mining, data merging, statistics, and critical thinking.
 
 In this portfolio, I have included a variety of projects that showcase my data analytics skills. You will find examples of dashboards and reports I have created using various tools such as Power BI, Tableau, and Excel. These projects demonstrate my ability to analyze and present data in a clear and visually appealing way, making it easy for decision makers to understand the insights and take action.
 
@@ -11,4 +14,4 @@ In addition to my technical skills, I also pride myself on my critical thinking 
 
 I am confident that my data analytics skills and experience make me an ideal candidate for any data analyst role. I hope you find my portfolio to be informative and engaging, and I welcome any opportunity to discuss my qualifications further with you.
 
-Thank you for considering me as a candidate, I look forward to hearing from you soon.
+Thank you for visiting, I look forward to hearing from you soon.
